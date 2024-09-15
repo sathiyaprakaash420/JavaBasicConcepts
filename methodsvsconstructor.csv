@@ -1,0 +1,7 @@
+Methods,constructor
+Method name can be anything,construcor name should be same as class name
+Method may return or may noy not return value,constructor will not return value
+if the method is not returning any value specify void,we dont specify void
+method can take parameter/arguments,constructors can take parameter and arguments
+we have to invoke/call methods explicitly through objects,constructors are invoked at the time of object creation
+used for specifying logics,used for intializing values to the variables
