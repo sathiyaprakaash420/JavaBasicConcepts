@@ -1,0 +1,26 @@
+Method
+=======
+method is created inside class
+block or group of statementwhich will perform certain task 
+we can call method through object
+
+Types
+=======
+1) No param No return value
+2) No param return value      
+3) Takes param No return value
+4) Takes param return value
+
+constructor
+===========
+similar to method
+constructor name should be same as class name
+constructor will not return any value
+parameter can be passed in constructors
+constructors are only used for intializing data not for any logics to be implented
+In the time object creation constructors are automatically created
+
+types
+=======
+default and parameterized constructors
+
